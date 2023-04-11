@@ -1,7 +1,7 @@
 [project]
 # Project name for pypi
 # $ pip install gh_action_gdsc_OWNER
-name = "gh_action_gdsc_OWNER"  # Required
+name = "gh_action_gdsc_testfeur"  # Required
 version = "1.0.3"  # Required
 description = "A sample python github action project from GDSC EPITA"  # Optional        
 readme = "README.md" # Optional
